@@ -20,9 +20,9 @@ for move in data:
         continue
 
     elif move[0] > len(stacks[first]):
-        second = len(stacks[first]) - 1
+        second = len(stacks[first])
     else:
-        second = move[0] - 1
+        second = move[0]
 
     if move[2]  > len(stacks):
         third = len(stacks) - 1
@@ -33,16 +33,18 @@ for move in data:
     length = len(stacks[first][-second:])
     temp = [stacks[first].pop() for i in range(length)]
     temp.reverse()
+    print(f'Current stack: #{first + 1}')
+    print(stacks[first])
     print(f'Moving {second + 1} item(s) from {first + 1} to {third + 1}')
     print(f'{temp} -> {stacks[third]}')
     stacks[third].extend(temp)
     # print(f'New stack arrangement:\n{stacks}')
     # print(f'Current move: {temp}')
 
-#print(stacks)
-#items = [item[len(item) - 1] for item in stacks if len(item) > 0]
-#print(stacks)
-#print(len(stacks))
-#for item in items:
-# print(f'{item}', end='')
-#print()
+print(stacks)
+items = [item[len(item) - 1] for item in stacks if len(item) > 0]
+print(stacks)
+print(len(stacks))
+for item in items:
+ print(f'{item}', end='')
+print()
