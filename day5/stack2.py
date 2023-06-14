@@ -37,6 +37,7 @@ for move in data:
     print(f'Items to be moved: {stacks[first][-second:]}\n')
 
     temp = [stacks[first].pop() for i in range(length)]
+    temp.reverse()
 
     print(f'Moving {second} item(s) from {first + 1} to {third + 1}')
     print(f'{temp} -> {stacks[third]}\n')
