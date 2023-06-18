@@ -1,4 +1,7 @@
+memo = {}
 def recursion(dir, directs):
+    if dir in memo:
+        return 0
     sum = 0
     for item in directs[dir]:
         if 'dir' in item:
@@ -6,6 +9,7 @@ def recursion(dir, directs):
         else:
             sum += int(item[0])
     print(f'Sum of {dir}: {sum}')
+    memo[dir] = sum
     return sum
 
 
@@ -20,26 +24,42 @@ with open('data.txt', 'r') as f:
 
 directories = {}
 buffer = []
-name = ""
-print(data)
-for item in data:
-    if " cd " in item:
-        if name != "":
-            directories[name] = buffer
+path = ""
+first = True
+# print(data)
+for index, item in enumerate(data):
+    if " cd " in item and ".." not in item:
+        if path != "":
+            directories[path] = buffer
             buffer = []
-            print(item)
-            name = item.split()[2]
+            path += item.split()[2] + "/"
+            first = False
         else:
-            print(item)
-            name = item.split()[2]
-    elif "ls" in item:
+            # print(item)
+            path += item.split()[2]
+            # print(f'Parent Directory: {path}')
+    elif "$ ls" in item:
+        # print(f'ls is in {item}')
         continue
     elif ".." in item:
+        # print(f'Old Path: {path}')
+        path = path[1:-1]
+        path = path.split('/')
+        # print(path)
+        path = path[:-1]
+
+        path = '/' + '/'.join(path) + '/'
+        if path == "//":
+            path = '/'
+        # print(f'New Path: {path}')
+        # print(f'.. is in {item}')
         continue
     else:
-        buffer.append(item.split())
-directories[name] = buffer
-print(directories['lbz'])
-print(recursion('/', directories))
-# for key in directories:
-#     print(f'Directory: {key}\nFiles: {directories[key]}')
+        if item.split()[0] == 'dir':
+            buffer.append([item.split()[0], path + item.split()[1] + '/'])
+        else:
+            buffer.append([item.split()[0], path + item.split()[1]])
+directories[path] = buffer
+for key in directories:
+    print(f'Directory: {key}\nFiles: {directories[key]}')
+# print(recursion('/', directories))

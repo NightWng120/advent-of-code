@@ -1,0 +1,190 @@
+Directory: /
+Files: [['45167', '/fwrlqs/fsclsm'], ['42603', '/fwrlqs/qfq.pqh']]
+Directory: /ddgtnw/
+Files: [['297156', '/ddgtnw/grct/qzlmfj.lhc'], ['104088', '/ddgtnw/grct/vnnf']]
+Directory: /ddgtnw/gftgshl/
+Files: [['20977', '/ddgtnw/gftgshl/smnslwd/grct/jjq.hjd']]
+Directory: /ddgtnw/gftgshl/smnslwd/
+Files: [['205127', '/ddgtnw/gftgshl/smnslwd/dbtvp.mbr'], ['dir', '/ddgtnw/gftgshl/smnslwd/grct/'], ['270601', '/ddgtnw/gftgshl/smnslwd/hcjtjptg'], ['146538', '/ddgtnw/gftgshl/smnslwd/lsqvg.zmm'], ['310443', '/ddgtnw/gftgshl/smnslwd/vnnf'], ['84541', '/ddgtnw/gftgshl/smnslwd/vqms']]
+Directory: /ddgtnw/wtgzgmvr/
+Files: [['201215', '/ddgtnw/wtgzgmvr/cfvjph/tlms']]
+Directory: /ddgtnw/wtgzgmvr/jzdqctm/
+Files: [['301547', '/ddgtnw/wtgzgmvr/jzdqctm/vdzsn/smnslwd.hzc']]
+Directory: /ddgtnw/wtgzgmvr/jzdqctm/hnbjcm/
+Files: [['263149', '/ddgtnw/wtgzgmvr/jzdqctm/hnbjcm/tlms/gwws.zcb']]
+Directory: /ddgtnw/wtgzgmvr/jzdqctm/hnbjcm/qvnbfdq/
+Files: [['259317', '/ddgtnw/wtgzgmvr/jzdqctm/hnbjcm/qvnbfdq/dzfpqb/dzbfsf.mwc'], ['36195', '/ddgtnw/wtgzgmvr/jzdqctm/hnbjcm/qvnbfdq/dzfpqb/rtgrs.hff']]
+Directory: /ddgtnw/wtgzgmvr/jzdqctm/hnbjcm/qvnbfdq/rvdlmnqv/
+Files: [['dir', '/ddgtnw/wtgzgmvr/jzdqctm/hnbjcm/qvnbfdq/rvdlmnqv/smnslwd/']]
+Directory: /dtmbp/
+Files: [['296407', '/dtmbp/spmc/jbrftqj/flb'], ['315927', '/dtmbp/spmc/jbrftqj/fnbvwh.lcf']]
+Directory: /dtmbp/hdjs/
+Files: [['dir', '/dtmbp/hdjs/tlms/']]
+Directory: /dtmbp/spmc/
+Files: [['43088', '/dtmbp/spmc/hhwzwqzq/mrlnrp.nqs'], ['206555', '/dtmbp/spmc/hhwzwqzq/vnnf']]
+Directory: /dtmbp/spwsfpww/
+Files: [['286526', '/dtmbp/spwsfpww/hzb/smnslwd/dtcrb.tzw'], ['214568', '/dtmbp/spwsfpww/hzb/smnslwd/smnslwd']]
+Directory: /dtmbp/spwsfpww/ddgtnw/
+Files: [['18055', '/dtmbp/spwsfpww/ddgtnw/grct/fvnm']]
+Directory: /dtmbp/spwsfpww/hzb/
+Files: [['178568', '/dtmbp/spwsfpww/hzb/hmdszw'], ['132701', '/dtmbp/spwsfpww/hzb/pzsfzr.zqz'], ['dir', '/dtmbp/spwsfpww/hzb/smnslwd/']]
+Directory: /dzbfsf/
+Files: [['157147', '/dzbfsf/ptbps/pwclsbw/dzbfsf/smnslwd.jcg']]
+Directory: /dzbfsf/ptbps/
+Files: [['132576', '/dzbfsf/ptbps/jzfs.hpq'], ['dir', '/dzbfsf/ptbps/pwclsbw/']]
+Directory: /dzbfsf/ptbps/pwclsbw/
+Files: [['dir', '/dzbfsf/ptbps/pwclsbw/dzbfsf/']]
+Directory: /dzbfsf/tllwm/
+Files: [['319798', '/dzbfsf/tllwm/smnslwd/wwbdc/zwvtdc/jqtv/qdd/jjq.hjd']]
+Directory: /dzbfsf/tllwm/pcbgr/
+Files: [['283471', '/dzbfsf/tllwm/pcbgr/smtbvvpn/wnbtllq/grct.vmq'], ['285265', '/dzbfsf/tllwm/pcbgr/smtbvvpn/wnbtllq/sqqj'], ['248581', '/dzbfsf/tllwm/pcbgr/smtbvvpn/wnbtllq/trgqdwsc.zjc']]
+Directory: /dzbfsf/tllwm/pcbgr/smtbvvpn/
+Files: [['19296', '/dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/twfpbs/vdr/vqms']]
+Directory: /dzbfsf/tllwm/pcbgr/smtbvvpn/mqgzwzn/
+Files: [['dir', '/dzbfsf/tllwm/pcbgr/smtbvvpn/mqgzwzn/rhp/']]
+Directory: /dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/
+Files: [['227330', '/dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/pjhnl/dzbfsf/bdmbnm.zpl'], ['232365', '/dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/pjhnl/dzbfsf/cfmhqlhp.qvj']]
+Directory: /dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/pjhnl/
+Files: [['305148', '/dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/pjhnl/dqfwn.zhg'], ['dir', '/dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/pjhnl/dzbfsf/'], ['34622', '/dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/pjhnl/smnslwd.nzj']]
+Directory: /dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/twfpbs/
+Files: [['72138', '/dzbfsf/tllwm/pcbgr/smtbvvpn/vzjfv/twfpbs/rfn/grct']]
+Directory: /dzbfsf/tllwm/smnslwd/
+Files: [['308054', '/dzbfsf/tllwm/smnslwd/vrwwh/grct.hgj']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/
+Files: [['321148', '/dzbfsf/tllwm/smnslwd/tlms/sgbnjmwq/qfc/ftjjdg'], ['185489', '/dzbfsf/tllwm/smnslwd/tlms/sgbnjmwq/qfc/mlp.ssf'], ['195188', '/dzbfsf/tllwm/smnslwd/tlms/sgbnjmwq/qfc/tlms']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ddgtnw/
+Files: [['224423', '/dzbfsf/tllwm/smnslwd/tlms/ddgtnw/hwnfv/fzrj']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ddgtnw/jsdmffq/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ddgtnw/jsdmffq/dzbfsf/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/jlz/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/jlz/vrcb/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/
+Files: [['15634', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/qwrnllw/nsrhgbt/vsnmq/zpqp']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/chvn/
+Files: [['19170', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/chvn/ddgtnw/dzbfsf.tmf'], ['160727', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/chvn/ddgtnw/wqbdcw']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/
+Files: [['102603', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/pcs/bvmnrf'], ['219969', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/pcs/tlms']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/dzbfsf/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/dzbfsf/ntmzsm/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/dzbfsf/ntmzsm/
+Files: [['244040', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/dzbfsf/ntmzsm/drbl/wccppjd.tcg']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/
+Files: [['132838', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/tnpfpcz/jjn/nlmt/mzdcb.gtf']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/tnpfpcz/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/tnpfpcz/jjn/'], ['274527', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/tnpfpcz/rtgrs.hff'], ['97897', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/tnpfpcz/ztpd']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/tnpfpcz/jjn/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/hsp/rjvmwmgm/tnpfpcz/jjn/nlmt/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/
+Files: [['13693', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/ddgtnw/zfdts/grct']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/ddgtnw/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/ddgtnw/zfdts/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/ztbjwv/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/ztbjwv/zzrsvbg/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/ztbjwv/zzrsvbg/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/nglr/ztbjwv/zzrsvbg/ddgtnw/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/
+Files: [['84994', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/prszvcp/mtlr/vztmrn/dzbfsf']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/prszvcp/
+Files: [['279284', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/prszvcp/fnwgcvw.dbg'], ['201788', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/prszvcp/grct.ssc'], ['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/prszvcp/mtlr/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/prszvcp/mtlr/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/prszvcp/mtlr/vztmrn/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/qwrnllw/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/qwrnllw/nsrhgbt/']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/qwrnllw/nsrhgbt/
+Files: [['128046', '/dzbfsf/tllwm/smnslwd/tlms/ptzptl/qgbbv/qwrnllw/nsrhgbt/smnslwd/rtgrs.hff']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/rsqtp/
+Files: [['235401', '/dzbfsf/tllwm/smnslwd/tlms/rsqtp/grct/ddgtnw/hzpr'], ['107837', '/dzbfsf/tllwm/smnslwd/tlms/rsqtp/grct/ddgtnw/smnslwd.pqr']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/rsqtp/grct/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/rsqtp/grct/ddgtnw/'], ['27078', '/dzbfsf/tllwm/smnslwd/tlms/rsqtp/grct/rtgrs.hff']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/rsqtp/hcsjjss/
+Files: [['282291', '/dzbfsf/tllwm/smnslwd/tlms/rsqtp/hcsjjss/jhhw/mcmndtb.mjj']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/sgbnjmwq/
+Files: [['168852', '/dzbfsf/tllwm/smnslwd/tlms/sgbnjmwq/ddgtnw/vnnf'], ['63729', '/dzbfsf/tllwm/smnslwd/tlms/sgbnjmwq/ddgtnw/vqms']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/smnslwd/
+Files: [['3424', '/dzbfsf/tllwm/smnslwd/tlms/smnslwd/dzbfsf/dznc/smnslwd']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/smnslwd/dzbfsf/
+Files: [['189827', '/dzbfsf/tllwm/smnslwd/tlms/smnslwd/dzbfsf/dvvcg/bsswp/gpzmg']]
+Directory: /dzbfsf/tllwm/smnslwd/tlms/smnslwd/dzbfsf/dvvcg/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/tlms/smnslwd/dzbfsf/dvvcg/bsswp/']]
+Directory: /dzbfsf/tllwm/smnslwd/wwbdc/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/wwbdc/zwvtdc/']]
+Directory: /dzbfsf/tllwm/smnslwd/wwbdc/zwvtdc/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/wwbdc/zwvtdc/jqtv/']]
+Directory: /dzbfsf/tllwm/smnslwd/wwbdc/zwvtdc/jqtv/
+Files: [['dir', '/dzbfsf/tllwm/smnslwd/wwbdc/zwvtdc/jqtv/qdd/'], ['165188', '/dzbfsf/tllwm/smnslwd/wwbdc/zwvtdc/jqtv/smnslwd.hwz']]
+Directory: /dzbfsf/tllwm/svc/
+Files: [['dir', '/dzbfsf/tllwm/svc/ddgtnw/'], ['133886', '/dzbfsf/tllwm/svc/fsclsm'], ['107226', '/dzbfsf/tllwm/svc/jjq.hjd'], ['259031', '/dzbfsf/tllwm/svc/wtnbwg.sct']]
+Directory: /qjnnw/
+Files: [['133184', '/qjnnw/rdn/fsclsm'], ['186144', '/qjnnw/rdn/mrntdh.spz'], ['117372', '/qjnnw/rdn/spdlb.vmp'], ['245469', '/qjnnw/rdn/vjrjwfwl.zzt']]
+Directory: /qjnnw/grct/
+Files: [['dir', '/qjnnw/grct/ddgtnw/'], ['98292', '/qjnnw/grct/vnnf']]
+Directory: /qjnnw/grct/ddgtnw/
+Files: [['dir', '/qjnnw/grct/ddgtnw/zrb/']]
+Directory: /qjnnw/mqbbh/
+Files: [['250581', '/qjnnw/mqbbh/tlms/tlms/lvqjfj/rtgrs.hff']]
+Directory: /qjnnw/mqbbh/dqmhnq/
+Files: [['149913', '/qjnnw/mqbbh/dqmhnq/dzpn.qsg'], ['dir', '/qjnnw/mqbbh/dqmhnq/hmfvzjz/'], ['198969', '/qjnnw/mqbbh/dqmhnq/rtgrs.hff']]
+Directory: /qjnnw/mqbbh/dqmhnq/hmfvzjz/
+Files: [['318705', '/qjnnw/mqbbh/dqmhnq/hmfvzjz/dzbfsf/cmgjqnb.wbq']]
+Directory: /qjnnw/mqbbh/dqmhnq/hmfvzjz/hthgs/
+Files: [['dir', '/qjnnw/mqbbh/dqmhnq/hmfvzjz/hthgs/ljmsqbvz/']]
+Directory: /qjnnw/mqbbh/rnl/
+Files: [['316061', '/qjnnw/mqbbh/rnl/mtwrqwwl/wtmgr/zsmmhfq/tlms']]
+Directory: /qjnnw/mqbbh/rnl/mtwrqwwl/
+Files: [['dir', '/qjnnw/mqbbh/rnl/mtwrqwwl/wtmgr/']]
+Directory: /qjnnw/mqbbh/rnl/mtwrqwwl/wtmgr/
+Files: [['134164', '/qjnnw/mqbbh/rnl/mtwrqwwl/wtmgr/tlms.qmv'], ['316076', '/qjnnw/mqbbh/rnl/mtwrqwwl/wtmgr/vqms'], ['138038', '/qjnnw/mqbbh/rnl/mtwrqwwl/wtmgr/wnv'], ['dir', '/qjnnw/mqbbh/rnl/mtwrqwwl/wtmgr/zsmmhfq/']]
+Directory: /qjnnw/mqbbh/slnqt/
+Files: [['36945', '/qjnnw/mqbbh/slnqt/lzzwbcnl/lhltmghz/hzhfgsfd/fsclsm']]
+Directory: /qjnnw/mqbbh/slnqt/lzzwbcnl/
+Files: [['dir', '/qjnnw/mqbbh/slnqt/lzzwbcnl/lhltmghz/']]
+Directory: /qjnnw/mqbbh/slnqt/lzzwbcnl/lhltmghz/
+Files: [['dir', '/qjnnw/mqbbh/slnqt/lzzwbcnl/lhltmghz/hzhfgsfd/'], ['212254', '/qjnnw/mqbbh/slnqt/lzzwbcnl/lhltmghz/lcj.rsh']]
+Directory: /qjnnw/mqbbh/tlms/
+Files: [['294474', '/qjnnw/mqbbh/tlms/jdvhnpv/vfn/mcdpp/dzbfsf.hfn']]
+Directory: /qjnnw/mqbbh/tlms/jdvhnpv/
+Files: [['170653', '/qjnnw/mqbbh/tlms/jdvhnpv/pbwh/smnslwd']]
+Directory: /qjnnw/mqbbh/tlms/jdvhnpv/vfn/
+Files: [['dir', '/qjnnw/mqbbh/tlms/jdvhnpv/vfn/mcdpp/']]
+Directory: /qjnnw/mqbbh/tlms/tlms/
+Files: [['dir', '/qjnnw/mqbbh/tlms/tlms/lvqjfj/']]
+Directory: /qjnnw/mqbbh/wgctf/
+Files: [['89149', '/qjnnw/mqbbh/wgctf/qzq/pgrgt.jmm']]
+Directory: /qjnnw/mqbbh/wgctf/ddgtnw/
+Files: [['dir', '/qjnnw/mqbbh/wgctf/ddgtnw/nrfgg/']]
+Directory: /qjnnw/mqbbh/wgctf/mmlw/
+Files: [['dir', '/qjnnw/mqbbh/wgctf/mmlw/gsvfvgn/']]
+Directory: /qjnnw/nlwjn/
+Files: [['5427', '/qjnnw/nlwjn/vdmlzzgd/llch']]
+Directory: /qjnnw/nlwjn/zdzrn/
+Files: [['dir', '/qjnnw/nlwjn/zdzrn/lfpltz/']]
+Directory: /qjnnw/shffbpjj/
+Files: [['143939', '/qjnnw/shffbpjj/ccwnzd/zlwqpwdl.hbh']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/
+Files: [['37799', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/smnslwd/jcvmgzc/jjq.hjd']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/rcnp/
+Files: [['23004', '/qjnnw/shffbpjj/pcqbmmzt/rcnp/grct/rfgbpbt.mhp'], ['166737', '/qjnnw/shffbpjj/pcqbmmzt/rcnp/grct/vqms']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/sjhrvszs/
+Files: [['110715', '/qjnnw/shffbpjj/pcqbmmzt/sjhrvszs/gfpzrd/rltrjpg.lch'], ['117420', '/qjnnw/shffbpjj/pcqbmmzt/sjhrvszs/gfpzrd/vnnf']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/vvh/
+Files: [['6635', '/qjnnw/shffbpjj/pcqbmmzt/vvh/djzcnld/dtnqpfqw.nlj'], ['27153', '/qjnnw/shffbpjj/pcqbmmzt/vvh/djzcnld/fzpnfnp.jbt'], ['164286', '/qjnnw/shffbpjj/pcqbmmzt/vvh/djzcnld/rlchrtlw'], ['231430', '/qjnnw/shffbpjj/pcqbmmzt/vvh/djzcnld/rtgrs.hff'], ['33326', '/qjnnw/shffbpjj/pcqbmmzt/vvh/djzcnld/wbfqtpjn.vsq']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/
+Files: [['201664', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/wrthr/vqql/smnslwd.gzj']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/
+Files: [['111099', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/wws/mjq.fjz']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/
+Files: [['dir', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/
+Files: [['164079', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/bswc'], ['207352', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/dzbfsf'], ['203683', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/ftdjsfbg.lbl'], ['60925', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/sgmtn.llc'], ['dir', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/qglfnbds/qzh/wws/']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/wrthr/
+Files: [['103365', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/wrthr/nsnz/jhntl/trdnzfz']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/wrthr/ddgtnw/
+Files: [['221776', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/wrthr/ddgtnw/nlls/jjq.hjd']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/wrthr/nsnz/
+Files: [['dir', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/grct/wrthr/nsnz/jhntl/']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/wzcqnz/smnslwd/
+Files: [['318911', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/smnslwd/fsclsm'], ['dir', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/smnslwd/jcvmgzc/'], ['101015', '/qjnnw/shffbpjj/pcqbmmzt/wzcqnz/smnslwd/rtgrs.hff']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/zfctl/
+Files: [['159825', '/qjnnw/shffbpjj/pcqbmmzt/zfctl/fmfgjw/ddgtnw.bhf'], ['210407', '/qjnnw/shffbpjj/pcqbmmzt/zfctl/fmfgjw/jjq.hjd']]
+Directory: /qjnnw/shffbpjj/pcqbmmzt/zfctl/lbz/
+Files: [['206810', '/qjnnw/shffbpjj/pcqbmmzt/zfctl/lbz/gbcqz.lgw'], ['20178', '/qjnnw/shffbpjj/pcqbmmzt/zfctl/lbz/rtgrs.hff']]
