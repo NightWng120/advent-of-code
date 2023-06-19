@@ -87,10 +87,8 @@ for key in directories:
     memo = {}
     current = recursion(key, directories)
     #print(current)
-    if current >= 23251026 and current < size:
-        print(f"{key} is smaller than {folder}")
+    if current >= 6748974 and current < size:
+        print(f"{key}, ({current}), is smaller than {folder}, ({size})")
         size = current
         folder = key
-    elif current > 10000000:
-        print(f'{current} is greater than 10000000')
 print(f"Directory {folder}, with size of {size} must be deleted")
