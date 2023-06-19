@@ -8,13 +8,9 @@ def recursion(dir, directs):
             sum += recursion(item[1], directs)
         else:
             sum += int(item[0])
-    print(f'Sum of {dir}: {sum}')
+    # print(f'Sum of {dir}: {sum}')
     memo[dir] = sum
     return sum
-
-
-
-
 
 with open('data.txt', 'r') as f:
     data = [item.replace('\n', '') for item in f.readlines()]
@@ -30,9 +26,16 @@ first = True
 for index, item in enumerate(data):
     if " cd " in item and ".." not in item:
         if path != "":
-            directories[path] = buffer
+            print(f'Current Directory: {path}')
+            print(f'Files Contained: {buffer}')
+            if path not in directories:
+                directories[path] = buffer
             buffer = []
+            print("\n*** CHANGED TO NEW DIRECTORY ***\n")
+            print(f'Switched From {path} to ',end='')
             path += item.split()[2] + "/"
+            print(f'{path}')
+            print("\n************************")
             first = False
         else:
             # print(item)
@@ -42,7 +45,15 @@ for index, item in enumerate(data):
         # print(f'ls is in {item}')
         continue
     elif ".." in item:
-        # print(f'Old Path: {path}')
+        print(f'Current Directory: {path}')
+        print(f'Files Contained: {buffer}')
+
+        if path not in directories:
+            directories[path] = buffer
+
+        buffer = []
+        print("\n*** CHANGED TO PREVIOUS DIRECTORY ***\n")
+        print(f'Switched From {path} to ',end='')
         path = path[1:-1]
         path = path.split('/')
         # print(path)
@@ -51,7 +62,8 @@ for index, item in enumerate(data):
         path = '/' + '/'.join(path) + '/'
         if path == "//":
             path = '/'
-        # print(f'New Path: {path}')
+        print(f'{path}')
+        print("\n************************")
         # print(f'.. is in {item}')
         continue
     else:
@@ -59,7 +71,26 @@ for index, item in enumerate(data):
             buffer.append([item.split()[0], path + item.split()[1] + '/'])
         else:
             buffer.append([item.split()[0], path + item.split()[1]])
-directories[path] = buffer
+    print(f'Current Buffer: {buffer}')
+
+if path not in directories:
+    directories[path] = buffer
+
+# for key in directories:
+#     print(f'\nDirectory: {key}\nFiles: {directories[key]}\n')
+
+sum = 0
+current = 0
+size = 46748974
+folder = ''
 for key in directories:
-    print(f'Directory: {key}\nFiles: {directories[key]}')
-# print(recursion('/', directories))
+    memo = {}
+    current = recursion(key, directories)
+    #print(current)
+    if current >= 23251026 and current < size:
+        print(f"{key} is smaller than {folder}")
+        size = current
+        folder = key
+    elif current > 10000000:
+        print(f'{current} is greater than 10000000')
+print(f"Directory {folder}, with size of {size} must be deleted")
