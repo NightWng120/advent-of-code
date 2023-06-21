@@ -39,18 +39,35 @@ def check(tree, data):
 
 max = 0
 scenic = []
+scenicMax = []
 current = 0
-print(data[98])
+treeMax = []
+wasMax = False
 for indexr, row in enumerate(data):
     for indext, tree in enumerate(row):
-        scenic = check((indexr, indext), data)
+        scenic = check([indexr, indext], data)
         current = scenic[0] * scenic[1] * scenic[2] * scenic[3]
         if current > max:
-            print(f'[{data[indexr][indext]}]',end='')
+            treeMax = [indexr, indext]
+            scenicMax = scenic
             # print(f"Position {indexr},{indext} has scenic numbers {scenic}\nIt's number is {data[indexr][indext]}")
             max = current
+
+for indexr, row in enumerate(data):
+    for indext, tree in enumerate(row):
+        if [indexr, indext] == treeMax:
+            print(f'[{data[indexr][indext]}]',end='')
+            wasMax = True
         else:
-            print(f'{data[indexr][indext]}',end='')
+            if wasMax:
+                print(f'{data[indexr][indext]}',end='')
+                wasMax = False
+            else:
+                print(' ',end='')
+                print(f'{data[indexr][indext]}',end='')
     print()
 
+
 print(max)
+print(scenicMax)
+print(treeMax)
