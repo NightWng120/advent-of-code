@@ -1,5 +1,6 @@
 with open('data.txt', 'r') as f:
     data = [list(item.replace('\n', '')) for item in f.readlines()]
+
 def check(tree, data):
     scenic = [0,0,0,0]
     loop = True
@@ -9,6 +10,7 @@ def check(tree, data):
         i += 1
         if edge == 0:
             if (tree[1] - i) > 0 and data[tree[0]][tree[1]] > data[tree[0]][tree[1] - i]:
+                print(f'Tree {data[tree[0]][tree[1]]}, at postion {tree} > tree {data[tree[0]][tree[1] - i]}, at position {[tree[0], tree[1] - i]}')
                 scenic[0] += 1
             else:
                 scenic[0] += 1
@@ -16,6 +18,7 @@ def check(tree, data):
 
         elif edge == 1:
             if (tree[1] + i) < 98 and data[tree[0]][tree[1]] > data[tree[0]][tree[1] + i]:
+                print(f'Tree {data[tree[0]][tree[1]]}, at postion {tree} > tree {data[tree[0]][tree[1] + i]}, at position {data[tree[0]][tree[1] + i]}')
                 scenic[1] += 1
             else:
                 scenic[1] += 1
@@ -23,12 +26,14 @@ def check(tree, data):
 
         elif edge == 2:
             if (tree[0] - i) > 0 and data[tree[0]][tree[1]] > data[tree[0] - i][tree[1]]:
+                print(f'Tree {data[tree[0]][tree[1]]}, at postion {tree} > tree {data[tree[0] - i][tree[1]]}, at position {[tree[0] - i, tree[1]]}')
                 scenic[2] += 1
             else:
                 scenic[2] += 1
                 edge += 1
         elif edge == 3:
             if (tree[0] + i) < 98 and data[tree[0]][tree[1]] > data[tree[0] + i][tree[1]]:
+                print(f'Tree {data[tree[0]][tree[1]]}, at postion {tree} > tree {data[tree[0] + i][tree[1]]}, at position {[tree[0] + i, tree[1]]}')
                 scenic[3] += 1
             else:
                 scenic[3] += 1
