@@ -1,4 +1,4 @@
-with open('data.txt', 'r') as f:
+with open('sample.txt', 'r') as f:
     data = [list(item.replace('\n', '')) for item in f.readlines()]
 def check(tree, data):
     visible = [True, True, True, True]
